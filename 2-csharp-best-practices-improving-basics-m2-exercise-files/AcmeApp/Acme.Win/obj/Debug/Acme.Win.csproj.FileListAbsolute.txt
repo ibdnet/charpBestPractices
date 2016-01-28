@@ -1,0 +1,13 @@
+C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Win\bin\Debug\Acme.Win.exe.config
+C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Win\bin\Debug\Acme.Win.exe
+C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Win\bin\Debug\Acme.Win.pdb
+C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Win\bin\Debug\Acme.Biz.dll
+C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Win\bin\Debug\Acme.Common.dll
+C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Win\bin\Debug\Acme.Biz.pdb
+C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Win\bin\Debug\Acme.Common.pdb
+C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csprojResolveAssemblyReference.cache
+C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Win\obj\Debug\Acme.Win.Properties.Resources.resources
+C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Win\obj\Debug\Acme.Win.VendorWin.resources
+C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csproj.GenerateResource.Cache
+C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Win\obj\Debug\Acme.Win.exe
+C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Win\obj\Debug\Acme.Win.pdb

@@ -5,3 +5,10 @@ C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best
 C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.csprojResolveAssemblyReference.cache
 C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.dll
 C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.pdb
+C:\Users\devineaz\Documents\GitHub\csharp-best-practices\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Biz\bin\Debug\Acme.Biz.dll
+C:\Users\devineaz\Documents\GitHub\csharp-best-practices\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Biz\bin\Debug\Acme.Biz.pdb
+C:\Users\devineaz\Documents\GitHub\csharp-best-practices\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Biz\bin\Debug\Acme.Common.dll
+C:\Users\devineaz\Documents\GitHub\csharp-best-practices\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Biz\bin\Debug\Acme.Common.pdb
+C:\Users\devineaz\Documents\GitHub\csharp-best-practices\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.csprojResolveAssemblyReference.cache
+C:\Users\devineaz\Documents\GitHub\csharp-best-practices\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.dll
+C:\Users\devineaz\Documents\GitHub\csharp-best-practices\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.pdb

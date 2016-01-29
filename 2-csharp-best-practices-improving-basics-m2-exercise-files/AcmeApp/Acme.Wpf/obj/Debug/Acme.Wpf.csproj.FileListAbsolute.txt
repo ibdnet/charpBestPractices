@@ -21,3 +21,6 @@ C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best
 C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Wpf\obj\Debug\Acme.Wpf.csproj.GenerateResource.Cache
 C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Wpf\obj\Debug\Acme.Wpf.exe
 C:\Users\devineaz\Downloads\csharp-best-practices-improving-basics\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Wpf\obj\Debug\Acme.Wpf.pdb
+C:\Users\devineaz\Documents\GitHub\csharp-best-practices\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Wpf\bin\Debug\Acme.Wpf.exe.config
+C:\Users\devineaz\Documents\GitHub\csharp-best-practices\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Wpf\obj\Debug\Acme.Wpf.exe
+C:\Users\devineaz\Documents\GitHub\csharp-best-practices\2-csharp-best-practices-improving-basics-m2-exercise-files\AcmeApp\Acme.Wpf\obj\Debug\Acme.Wpf.pdb
